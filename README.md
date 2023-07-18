@@ -1,11 +1,11 @@
 
 ## Title
 
-Calculator
+Music Player
 
 
 ## Description 
-A simple and user-friendly web-based calculator built using HTML, CSS, and JavaScript. Perform basic arithmetic operations, delete characters, and evaluate expressions with ease. The calculator features a clean and responsive design, making it accessible on various devices. Customize the calculator's appearance using CSS and leverage Font Awesome icons for visual appeal. An ideal addition to any web development project.
+"Music Player is a sleek and intuitive web application for playing your favorite songs. Enjoy a seamless music listening experience with features like play/pause, skip forward/backward, progress bar, song credits, and replay option."
 
 ## Authors
 
@@ -14,41 +14,37 @@ A simple and user-friendly web-based calculator built using HTML, CSS, and JavaS
     
 ## Getting Started
 
-This is a customizable web-based calculator application. Easily modify the design by changing the background image, font color, and icons to match your preferences. Here's how to get started:
+To customize the music player, follow these steps:
 
    1. Clone the repository to your local machine.
 
    2. Open the project in your preferred code editor.
 
-   3. Customize the HTML, CSS, or JavaScript files to suit your needs.
+   3. Replace the audio file in the <source> tag with your desired song. Make sure the file format is supported (e.g., MP3, WAV).
 
-   4. Test the calculator locally to ensure it functions correctly.
+   4. Update the <img> tag with your preferred image for the song.
 
-   5. Deploy the updated application to your chosen hosting platform for others to use.
+   5. Modify the HTML, CSS, or JavaScript files as needed to match your desired changes.
 
-Unleash your creativity and personalize the calculator according to your style!
+   6. Test the changes locally by opening the HTML file in a web browser.
+
+   7. Once you are satisfied with the modifications, you can deploy the updated website to your preferred hosting platform.
+
+Feel free to customize the code further to enhance the music player's functionality or appearance according to your preferences.
 
 
 
 ## Features
 
+   1. Play/Pause: Control your music playback with a single click.
 
-   1. Basic arithmetic operations: Addition, subtraction, multiplication, and division.
+   2. Skip Forward/Backward: Easily navigate through your songs with 5-second skip intervals.
 
-   2. Decimal point support and clearing display.
+   3. Progress Bar: Visualize the progress of the current song with an interactive progress bar.
 
-   3. Delete last character and evaluate expressions.
+   4. Song Credits: View detailed information about the song, including artist and writer credits.
 
-   4. User-friendly design with responsive layout.
-
-   5. Styling with custom CSS for an appealing visual experience.
-
-   6. Use of popular web fonts for improved typography.
-
-   7. Integration of Font Awesome icons for enhanced aesthetics.
-
-
-
+   5. Replay Option: Start over the current song with a dedicated replay button.
 
 
 ## Contributing
